@@ -1,4 +1,4 @@
-name: stockgcpMaria
+name: stock
 channels:
   - conda-forge
   - defaults
